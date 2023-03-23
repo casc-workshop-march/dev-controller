@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "casc-workshop-march-dev-controller"
+description: "CloudBees CI configuration bundle for the casc-workshop-march dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/casc-workshop-march/dev-controller"
+parent: "base"
